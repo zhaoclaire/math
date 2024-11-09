@@ -5,7 +5,7 @@ import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 
 const config: Config = {
-  title: "Blog",
+  title: "Math",
   tagline: "Claire's Math Blog",
   favicon: 'img/favicon.ico',
 
