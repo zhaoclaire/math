@@ -8,3 +8,5 @@ tags: [welcome]
 # Hello
 
 <!-- truncate -->`
+
+$\mathfrak{m}$

@@ -1,4 +1,4 @@
-# Matrix
+# Matrix Calculus
 
 ## Matrix Calculus: Derivative 
 
